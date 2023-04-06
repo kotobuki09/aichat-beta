@@ -3,6 +3,10 @@ Original from  https://github.com/danamini/aichat with modify to take text or vo
 
 Azure Open AI Conversational Speech-to-Speech is a GitHub project that enables users to interact with a conversational system using their voice. The system uses Azure Cognitive Services to recognize speech and sends the voice input to the Azure Open AI Service. The resulting text response is replayed to the user using speech synthesis, providing a speech-to-speech interface to Open AI. Azure Sentiment analysis is also performed on the Open AI response. 
 
+https://i.imgur.com/eOwYABP.png
+
+![Alt Text](https://i.imgur.com/eOwYABP.png)
+
 ## Getting Started
 
 To get started with this project, users will need to have access to an Azure Open AI Service and an Azure Speech Service. They should set up the corresponding keys and URLs in the config.py file and install the required dependencies, including the `openai`, `azure.ai.textanalytics`, `azure.core.credentials`, and `termcolor` packages. 
